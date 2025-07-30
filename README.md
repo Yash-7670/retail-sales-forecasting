@@ -47,16 +47,20 @@ retail-sales-forecasting/
 
 ## 📈 Sample Visualizations
 
-### Monthly Sales Trend
-![Monthly Sales](images/monthly_sales_trend.png)
+## 📈 Monthly Sales Trend
+![Monthly Sales Trend](notebooks/images/monthly_sales_trend.png)
 
-### Segment-wise Sales
-![Segment Sales](images/segment_sales.png)
+## 📊 Sales by Segment
+![Sales by Segment](notebooks/images/sales_by_segment.png)
 
-### Sales Forecast (ARIMA vs Prophet)
-![Forecast Comparison](images/forecast_comparison.png)
+## 🗂️ Sales by Category
+![Sales by Category](notebooks/images/sales_by_category.png)
 
----
+## 💸 Profit vs Discount
+![Profit vs Discount](notebooks/images/profit_vs_discount.png)
+
+## 🏙️ Top 10 Cities
+![Top 10 Cities](notebooks/images/top_10_cities.png)
 
 ## 🧠 Executive Summary
 
