@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+*.pkl
+
+# Virtual environment
+venv/
+
+# Jupyter runtime
+*.json
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Output folders
+notebooks/images/
+
+# Environment settings
+.env
